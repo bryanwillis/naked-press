@@ -1,3 +1,4 @@
+<?php
 if ( ! class_exists( 'HideBrokenShortcodes' ) ) :
 
 class HideBrokenShortcodes {
